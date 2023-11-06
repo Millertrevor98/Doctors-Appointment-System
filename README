@@ -1,0 +1,55 @@
+# Doctor Appointment Booking System
+
+The Doctor Appointment Booking System is a simple Java-based application with a graphical user interface (GUI) that allows users to book doctor appointments and view existing appointments. This README provides an overview of the program and instructions on how to run it.
+
+## Features
+
+- **Book Appointment:** Users can book an appointment by providing the patient's name, date, and time.
+- **View Appointments:** Users can view a list of all existing appointments.
+
+## Prerequisites
+
+- Java SE Development Kit (JDK): Ensure you have Java installed on your computer.
+
+## How to Run
+
+1. Download or clone the project files to your computer.
+
+2. Open a Java IDE (e.g., Eclipse, IntelliJ).
+
+3. Create a new Java project and add a new class.
+
+4. Paste the code from the provided Java program into the class in your IDE.
+
+5. Save the file with a `.java` extension (e.g., `DoctorAppointmentSystem.java`).
+
+6. Compile and run the program from your IDE.
+
+7. The GUI will appear, and you can start using the Doctor Appointment Booking System.
+
+## Usage
+
+1. Click on the "Book Appointment" button to book a new appointment.
+2. Provide the patient's name, date, and time in the pop-up window and click "Submit."
+
+![Booking Appointment](appointment.png)
+
+3. To view existing appointments, click on the "View Appointments" button.
+
+![View Appointments](view.png)
+
+4. The program will display a list of all appointments.
+
+## Contributing
+
+This project is a simple example, but you can contribute to its improvement by adding features, enhancing the GUI, or implementing a persistent data storage system for appointments.
+
+## License
+
+This project is open-source and available under the MIT License. You are free to use and modify it as per the license terms.
+
+## Acknowledgments
+
+- This project was created as a simple demonstration of a doctor appointment booking system using Java Swing.
+
+Feel free to modify, improve, or extend the program as needed for your own purposes. If you have any questions or encounter issues, please don't hesitate to contact me.
